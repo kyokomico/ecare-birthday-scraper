@@ -1,0 +1,7 @@
+{
+  "_comment": "Copy this file to config.json and fill in your school details",
+  "school_code": "YOUR_SCHOOL_CODE",
+  "api_key": "YOUR_API_KEY",
+  "api_base_url": "https://android.franciscan.in/api",
+  "session_year": null
+}

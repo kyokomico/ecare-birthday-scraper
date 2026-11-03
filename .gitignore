@@ -1,0 +1,21 @@
+# ── Session data (personal info of students/staff — never push) ──────────────
+birthday-records-*/
+*.csv
+
+# ── Runtime files ─────────────────────────────────────────────────────────────
+.active_session
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Editors / OS ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
